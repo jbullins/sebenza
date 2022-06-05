@@ -19,4 +19,4 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-![Screenshot](Screen Shot 2022-06-05 at 10.57.37 AM.png)
+![Screenshot](Screen%20Shot%202022-06-05%20at%2010.57.37%20AM.png)
