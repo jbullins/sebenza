@@ -33,12 +33,12 @@ $(document).ready(function () {
             console.log( hourBlock, currentHour)
 
             // Check current hour
-            if (blockHour < currentHour) {
+            if (hourBlock < currentHour) {
                 $(this).addClass("past");
                 $(this).removeClass("future");
                 $(this).removeClass("present");
             }
-            else if (blockHour === currentHour) {
+            else if (hourBlock === currentHour) {
                 $(this).removeClass("past");
                 $(this).addClass("present");
                 $(this).removeClass("future");
