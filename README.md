@@ -1,10 +1,10 @@
 # Work Day Scheduler
 
-User Story
+##User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-Acceptance Criteria
+##Acceptance Criteria
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -20,3 +20,6 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ![Screenshot](Screen%20Shot%202022-06-05%20at%2010.57.37%20AM.png)
+
+https://jbullins.github.io/sebenza/
+
